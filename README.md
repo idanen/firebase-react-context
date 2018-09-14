@@ -1,2 +1,2 @@
 # firebase-react-context
-A Firebase context component for React
+A collection of [Firebase](https://firebase.google.com/) context components for [React](https://reactjs.org/)
